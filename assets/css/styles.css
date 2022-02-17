@@ -1,0 +1,32 @@
+.fa-minus-square, .fa-plus-square{
+    cursor: pointer;
+}
+
+.bg-customize{
+    background-color: #a01515;
+}
+.minus{
+    color: #a01515;
+}
+.add{
+    color: #288b38;
+}
+
+    .btn-customize,.btn-order {background-image: linear-gradient(to right, #e52d27 0%, #b31217  51%, #e52d27  100%)}
+    .btn-customize,.btn-order {
+       margin: 10px;
+       padding: 15px 45px;
+       text-align: center;
+       text-transform: uppercase;
+       transition: 0.5s;
+       background-size: 200% auto;
+       color: white;            
+       border-radius: 10px;
+       display: block;
+     }
+
+     .btn-grad:hover {
+       background-position: right center; /* change the direction of the change here */
+       color: #fff;
+       text-decoration: none;
+     }

@@ -1,0 +1,315 @@
+{ 
+    "categories": [{
+            "name": "Categorie1",
+            "products": [{
+                "ref": "REF000",
+                "title": "Sunt ut veniam velits",
+                "description": "Sunt ut veniam velit qui. Magna magna est",
+                "filename": "https://picsum.photos/240/200?random=00",
+                "price": 9.99
+            }, {
+                "ref": "REF001",
+                "title": "Ad qui sunt consectetur",
+                "description": "Ad qui sunt consectetur eu consectetur magna",
+                "filename": "https://picsum.photos/240/200?random=01",
+                "price": 19.99
+            }, {
+                "ref": "REF002",
+                "title": "Officia fugiat esse eiusmod",
+                "description": "Asparagus with ham on the wooden table",
+                "filename": "https://picsum.photos/240/200?random=02",
+                "price": 29.99
+            }, {
+                "ref": "REF003",
+                "title": "Est aliquip non ",
+                "description": "Est aliquip non ad occaecat est ipsum ad consectetur ex do.",
+                "filename": "https://picsum.photos/240/200?random=03",
+                "price": 39.99
+            }, {
+                "ref": "REF004",
+                "title": "Est aliquip non ad ",
+                "description": "Est aliquip non ad occaecat est ipsum ad consectetur ex do.",
+                "filename": "https://picsum.photos/240/200?random=04",
+                "price": 49.99
+            }, {
+                "ref": "REF005",
+                "title": "Adipisicing in",
+                "description": "Adipisicing in anim proident sint eiusmod qui culpa velit mollit",
+                "filename": "https://picsum.photos/240/200?random=05",
+                "price": 59.99
+            }, {
+                "ref": "REF006",
+                "title": "Laborum ex aliquip",
+                "description": "Laborum ex aliquip cillum deserunt cupidatat elit amet qui",
+                "filename": "https://picsum.photos/240/200?random=06",
+                "price": 69.99
+            }, {
+                "ref": "REF007",
+                "title": "Nisi ea deserunt ",
+                "description": "Nisi ea deserunt aute excepteur reprehenderit incididunt aliqua",
+                "filename": "https://picsum.photos/240/200?random=07",
+                "price": 79.99
+            }, {
+                "ref": "REF008",
+                "title": "Do irure in ex non veniam.",
+                "description": "Do irure in ex non veniam. Consequat do occaecat minim ut consectetur eiusmod Lorem ",
+                "filename": "https://picsum.photos/240/200?random=08",
+                "price": 89.99
+            }, {
+                "ref": "REF009",
+                "title": "Ad consectetur ad dolore",
+                "description": "Ad consectetur ad dolore in quis aliqua laborum magna enim.",
+                "filename": "https://picsum.photos/240/200?random=09",
+                "price": 99.99
+            }, {
+                "ref": "REF010",
+                "title": "Ut aliqua sit ",
+                "description": "Ut aliqua sit minim culpa ut magna qui ullamco anim ipsum. ",
+                "filename": "https://picsum.photos/240/200?random=10",
+                "price": 89.99
+            }, {
+                "ref": "REF011",
+                "title": "Do dolor deserunt",
+                "description": "Do dolor deserunt id voluptate. Commodo elit ex mollit cupidatat cillum incididunt eiusmod",
+                "filename": "https://picsum.photos/240/200?random=11",
+                "price": 79.99
+            }, {
+                "ref": "REF012",
+                "title": "Anim laborum ",
+                "description": "Anim laborum minim non ut ad. Elit ut magna eiusmod magna.",
+                "filename": "https://picsum.photos/240/200?random=12",
+                "price": 69.99
+            }, {
+                "ref": "REF013",
+                "title": "Culpa cillum sit id",
+                "description": "Culpa cillum sit id consequat cillum. Ullamco nisi magna qui incididunt do. Deserunt labore elit sint mollit cillum nostrud cillum laborum.",
+                "filename": "https://picsum.photos/240/200?random=13",
+                "price": 59.99
+            }, {
+                "ref": "REF014",
+                "title": "Sint minim nulla",
+                "description": "Sint minim nulla minim duis in veniam ut. Ea velit ad exercitation id sint esse proident et. Veniam ",
+                "filename": "https://picsum.photos/240/200?random=14",
+                "price": 49.99
+            }, {
+                "ref": "REF015",
+                "title": "Ullamco magna aliqua",
+                "description": "Ullamco magna aliqua est ipsum sunt officia dolor eiusmod quis sint esse elit officia culpa.",
+                "filename": "https://picsum.photos/240/200?random=15",
+                "price": 39.99
+            }, {
+                "ref": "REF016",
+                "title": "Consequat consectetur laborum",
+                "description": "Consequat consectetur laborum pariatur qui mollit reprehenderit id mollit deserunt magna nostrud deserunt.",
+                "filename": "https://picsum.photos/240/200?random=16",
+                "price": 29.99
+            }, {
+                "ref": "REF017",
+                "title": "Anim commodo excepteur cillum non.",
+                "description": "Anim commodo excepteur cillum non. Dolore voluptate deserunt minim elit occaecat sint anim nulla nisi minim minim voluptate. ",
+                "filename": "https://picsum.photos/240/200?random=17",
+                "price": 19.99
+            }, {
+                "ref": "REF018",
+                "title": "Aliquip consectetur",
+                "description": "Aliquip consectetur culpa laboris eu anim non minim non est.",
+                "filename": "https://picsum.photos/240/200?random=18",
+                "price": 9.99
+            }]
+        },
+        {
+            "name": "Categorie2",
+            "products": [{
+                "ref": "REF019",
+                "title": "Ullamco tempor",
+                "description": "Ullamco tempor eiusmod est velit dolor.",
+                "filename": "https://picsum.photos/240/200?random=19",
+                "price": 9.99
+            }, {
+                "ref": "REF020",
+                "title": "Labore aliquip tempor",
+                "description": "Labore aliquip tempor aliqua aliqua laborum est qui magna nostrud minim labore officia.",
+                "filename": "https://picsum.photos/240/200?random=20",
+                "price": 19.99
+            }, {
+                "ref": "REF021",
+                "title": "Aliquae",
+                "description": "Aliqua excepteur qui sit reprehenderit laborum voluptate sit occaecat labore ex.",
+                "filename": "https://picsum.photos/240/200?random=21",
+                "price": 29.99
+            }, {
+                "ref": "REF022",
+                "title": "Dolor ut nulla",
+                "description": "Dolor ut nulla minim est esse aliquip et exercitation sunt.",
+                "filename": "https://picsum.photos/240/200?random=22",
+                "price": 39.99
+            }, {
+                "ref": "REF023",
+                "title": "Laborum veniam",
+                "description": "Laborum veniam dolor veniam duis cupidatat eu sunt sit ullamco culpa reprehenderit nostrud dolor.",
+                "filename": "https://picsum.photos/240/200?random=23",
+                "price": 49.99
+            }, {
+                "ref": "REF024",
+                "title": " Sit dolor cillum",
+                "description": " Sit dolor cillum sunt ullamco consequat reprehenderit nisi nostrud commodo aute.",
+                "filename": "https://picsum.photos/240/200?random=24",
+                "price": 59.99
+            }, {
+                "ref": "REF025",
+                "title": "In labore voluptate dolor",
+                "description": "In labore voluptate dolor cillum exercitation. Duis deserunt labore sit voluptate quis aliquip tempor anim incididunt nostrud laborum ipsum nisi laboris.",
+                "filename": "https://picsum.photos/240/200?random=25",
+                "price": 69.99
+            }, {
+                "ref": "REF026",
+                "title": "Non officia ",
+                "description": "Non officia occaecat excepteur veniam quis ea. Ut elit laborum irure amet mollit ut laborum laborum deserunt nisi ex. Ullamco officia ipsum amet excepteur amet.",
+                "filename": "https://picsum.photos/240/200?random=26",
+                "price": 79.99
+            }, {
+                "ref": "REF027",
+                "title": "Aute eiusmod amet ",
+                "description": "Aute eiusmod amet duis nulla culpa tempor id proident adipisicing laborum tempor exercitation.",
+                "filename": "https://picsum.photos/240/200?random=27",
+                "price": 89.99
+            }, {
+                "ref": "REF028",
+                "title": "Duis cupidatat occaecat do",
+                "description": "Duis cupidatat occaecat do minim amet magna irure eu nulla. Nisi esse eiusmod qui in irure do excepteur ipsum ea ut eu ad dolore.",
+                "filename": "https://picsum.photos/240/200?random=28",
+                "price": 99.99
+            }, {
+                "ref": "REF029",
+                "title": " Ad cnsequat nulla",
+                "description": " Ad cnsequat nulla sint ad dolore officia. Cupidatat ut pariatur exercitation et labore cillum incididunt  Officia cillum ullamco nostrud nostrud velit aliqua ex aliqua fugiat commodo nisi ullamco sunt.",
+                "filename": "https://picsum.photos/240/200?random=29",
+                "price": 89.99
+            }, {
+                "ref": "REF030",
+                "title": "Non in aliquip do ",
+                "description": "Non in aliquip do consectetur aute nostrud. Irure voluptate laboris consequat occaecat anim ullamco labore qui cupidatat ut. ",
+                "filename": "https://picsum.photos/240/200?random=30",
+                "price": 79.99
+            }, {
+                "ref": "REF031",
+                "title": " Ut dolore eiusmod",
+                "description": " Ut dolore eiusmod do et sint mollit reprehenderit minim exercitation consectetur consequat quis id. ",
+                "filename": "https://picsum.photos/240/200?random=31",
+                "price": 69.99
+            }, {
+                "ref": "REF032",
+                "title": "Velit irure",
+                "description": "Velit irure tempor Lorem magna duis elit anim labore veniam ea. ",
+                "filename": "https://picsum.photos/240/200?random=32",
+                "price": 59.99
+            }, {
+                "ref": "REF033",
+                "title": "Lorem minim ",
+                "description": "Lorem minim duis qui laborum proident sit exercitation officia.",
+                "filename": "https://picsum.photos/240/200?random=33",
+                "price": 49.99
+            }]
+        },
+        {
+            "name": "Categorie3",
+            "products": [{
+                "ref": "REF034",
+                "title": "Occaecat Lorem ad",
+                "description": "Occaecat Lorem ad est pariatur est culpa ad nulla nisi tempor aute cillum nostrud.",
+                "filename": "https://picsum.photos/240/200?random=34",
+                "price": 9.99
+            }, {
+                "ref": "REF035",
+                "title": "Reprehenderit commodo ",
+                "description": "Reprehenderit commodo velit ad ea anim mollit laboris cupidatat. Fugiat exercitation qui quis Lorem et incididunt commodo proident ullamco aliquip eiusmod officia. Aliquip est eiusmod ex occaecat magna duis commodo nostrud qui officia ut.",
+                "filename": "https://picsum.photos/240/200?random=35",
+                "price": 19.99
+            }, {
+                "ref": "REF036",
+                "title": "Nostrud laborum",
+                "description": "Nostrud laborum sunt consequat nulla do consectetur incididunt veniam eiusmod.",
+                "filename": "https://picsum.photos/240/200?random=36",
+                "price": 29.99
+            }, {
+                "ref": "REF037",
+                "title": "Pariatur sit",
+                "description": "Pariatur sit ad anim sunt nisi ipsum laborum sit. Velit veniam est occaecat non. Occaecat voluptate culpa cupidatat irure tempor ea qui adipisicing.",
+                "filename": "https://picsum.photos/240/200?random=37",
+                "price": 39.99
+            }, {
+                "ref": "REF038",
+                "title": "Sint eiusmod pariatur ",
+                "description": "Sint eiusmod pariatur ut proident Lorem. Non magna aliquip reprehenderit dolor magna amet in nisi sint sunt minim irure dolore.",
+                "filename": "https://picsum.photos/240/200?random=38",
+                "price": 49.99
+            }, {
+                "ref": "REF039",
+                "title": "Non proident ex",
+                "description": "Non proident ex aute quis consequat qui id magna quis qui labore aute.",
+                "filename": "https://picsum.photos/240/200?random=39",
+                "price": 59.99
+            }, {
+                "ref": "REF040",
+                "title": "Labore dolore",
+                "description": "Labore dolore magna qui ullamco ullamco velit voluptate tempor deserunt.",
+                "filename": "https://picsum.photos/240/200?random=40",
+                "price": 69.99
+            }, {
+                "ref": "REF041",
+                "title": "Voluptate eiusmod",
+                "description": "Voluptate eiusmod Lorem sint ut cillum incididunt laboris.",
+                "filename": "https://picsum.photos/240/200?random=41",
+                "price": 79.99
+            }, {
+                "ref": "REF042",
+                "title": "Dolor eiusmod",
+                "description": "Dolor eiusmod quis minim laborum ad excepteur velit.",
+                "filename": "https://picsum.photos/240/200?random=42",
+                "price": 89.99
+            }, {
+                "ref": "REF043",
+                "title": "Labore pariatur",
+                "description": "Labore pariatur in tempor esse pariatur et magna minim amet est est.",
+                "filename": "https://picsum.photos/240/200?random=43",
+                "price": 99.99
+            }, {
+                "ref": "REF044",
+                "title": "Fugiat velit eu",
+                "description": "Fugiat velit eu esse dolor fugiat. Magna fugiat in Lorem pariatur cillum et incididunt labore exercitation aute sunt.",
+                "filename": "https://picsum.photos/240/200?random=44",
+                "price": 89.99
+            }, {
+                "ref": "REF045",
+                "title": "Proident dolore",
+                "description": "Proident dolore qui duis pariatur ullamco aliqua dolore mollit consequat.",
+                "filename": "https://picsum.photos/240/200?random=45",
+                "price": 79.99
+            }, {
+                "ref": "REF046",
+                "title": "Consectetur duis",
+                "description": "Consectetur duis mollit qui minim ea elit officia velit deserunt et pariatur aliquip in quis.",
+                "filename": "https://picsum.photos/240/200?random=46",
+                "price": 69.99
+            }, {
+                "ref": "REF047",
+                "title": "Aute sit consectetur mollit",
+                "description": "Aute sit consectetur mollit aute ex culpa duis eu do. Aliqua in pariatur laborum ad est sit occaecat anim dolore.",
+                "filename": "https://picsum.photos/240/200?random=47",
+                "price": 59.99
+            }, {
+                "ref": "REF048",
+                "title": " Magna sunt",
+                "description": " Magna sunt deserunt sit est ipsum. Laborum aliquip est adipisicing fugiat elit aliquip elit elit eu commodo. Exercitation adipisicing proident culpa enim commodo excepteur culpa proident deserunt mollit est.",
+                "filename": "https://picsum.photos/240/200?random=48",
+                "price": 49.99
+            }, {
+                "ref": "REF049",
+                "title": "Nulla non enim Lorem ",
+                "description": "Nulla non enim Lorem aliqua in culpa incididunt culpa. Consequat exercitation exercitation ipsum dolor aliqua eu exercitation sit. Id incididunt anim incididunt eiusmod mollit Lorem pariatur amet.",
+                "filename": "https://picsum.photos/240/200?random=49",
+                "price": 39.99
+            }]
+        }
+    ]
+}
